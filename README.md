@@ -1,6 +1,7 @@
 # Hands-On-MachineLearning
 
 ** LATEST UNDATE:2022/4
+##### 使用方法: 每一章目录下有一个 “第?章.md” 看:arrow_left:这个即可
 
 <center style="text-align: center;">
     <img src="https://github.com/MaWeiXiang/Hands-On-Machine-Learning/blob/main/image/%E5%B0%81%E9%9D%A2.png" width="500"/>
