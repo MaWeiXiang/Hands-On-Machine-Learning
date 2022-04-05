@@ -3,7 +3,7 @@
 ** LATEST UNDATE:2022/4
 
 <center style="text-align: center;">
-    <img src="https://github.com/MaWeiXiang/Hands-On-MachineLearning/blob/main/image/fengmian.png" width="500"/>
+    <img src="https://github.com/MaWeiXiang/Hands-On-Machine-Learning/blob/main/image/%E5%B0%81%E9%9D%A2.png" width="500"/>
 </center>
 
 
